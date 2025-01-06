@@ -1,0 +1,12 @@
+# Node.js
+/Frontend/node_modules
+/Frontend/build
+
+# Python
+/Backend/App/__pycache__/
+*.pyc
+/Backend/venvapp/
+
+# General
+.env
+*.log
