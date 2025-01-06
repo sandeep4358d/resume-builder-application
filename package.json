@@ -1,0 +1,10 @@
+{
+    "name": "resume-builder-application",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "concurrently \"npm start --prefix Frontend\" \"python Backend/App/App.py\""
+    },
+    "devDependencies": {
+        "concurrently": "^9.1.0"
+    }
+}
