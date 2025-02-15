@@ -1,5 +1,5 @@
 # resume-builder-application
-    Unified Resume Builder is a full-stack application that allows users to create and analyze resumes.It combines Resume-Builder (Frontend) and AI-Resume-Analyzer (Backend) to provide resume-building templates and AI-powered resume analysis.
+Unified Resume Builder is a full-stack application that allows users to create and analyze resumes.It combines Resume-Builder (Frontend) and AI-Resume-Analyzer (Backend) to provide resume-building templates and AI-powered resume analysis.
 
 🚀 Features
 
@@ -64,12 +64,11 @@ The React app should now be running on http://localhost:3000
 🖥 3. Run the Backend (Python)
 
 Ensure you have Python 3.x and MySQL installed.
-
-  cd Backend
-  
-  pip install -r requirements.txt
-  
-  python app.py
+    cd Backend
+    
+    pip install -r requirements.txt
+    
+    python app.py
   
 The backend should be running on http://localhost:5000
 
