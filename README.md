@@ -65,10 +65,15 @@ Other Libraries: Pandas, PyResparser, PDFMiner
 🐜 Contributing
 
 Feel free to submit issues and pull requests. Contributions are always welcome!
+
 Fork the repository
+
 Create a new branch (git checkout -b feature-name)
+
 Commit changes (git commit -m 'Added new feature')
+
 Push the branch (git push origin feature-name)
+
 Submit a pull request
 
 📝 License
