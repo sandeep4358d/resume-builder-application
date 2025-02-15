@@ -32,7 +32,7 @@ Follow these steps to set up the project on your local machine.
 
 🖥️ 1. Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/Unified-Resume-Builder.git
+git clone https://github.com/sandeep4358d/resume-builder-application.git
 cd Unified-Resume-Builder
 
 🌐 2. Run the Frontend (React)
