@@ -12,8 +12,11 @@ Secure backend with Python (Flask/FastAPI) and database support.
 📂 Project Structure
 
 Unified-Resume-Builder/
+
 │── Backend/  (AI-Resume-Analyzer)
+
 │── Frontend/ (Resume-Builder)
+
 │── README.md
 
 ->Frontend (React + Chakra UI)
