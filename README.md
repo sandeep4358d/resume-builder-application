@@ -20,13 +20,19 @@ Unified-Resume-Builder/
 │── README.md
 
 ->Frontend (React + Chakra UI)
+
     Provides a UI for users to input resume data and generate a professional resume.
+    
     Uses React Router for navigation.
+    
     Includes resume templates and form validation.
 
 ->Backend (Python + NLP)
+
     Extracts relevant keywords from resumes.
+    
     Stores user details in a database (MySQL).
+    
     Provides AI-based recommendations.
 
 ⚙️ Installation & Setup
