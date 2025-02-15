@@ -3,11 +3,15 @@ Unified Resume Builder is a full-stack application that allows users to create a
 
 🚀 Features
 
-Create resumes using customizable templates.
-AI-based resume analysis with keyword extraction and scoring.
-PDF download functionality for resumes.
-User-friendly UI with Chakra UI for styling.
-Secure backend with Python (Flask/FastAPI) and database support.
+    Create resumes using customizable templates.
+
+    AI-based resume analysis with keyword extraction and scoring.
+
+    PDF download functionality for resumes.
+
+    User-friendly UI with Chakra UI for styling.
+
+    Secure backend with Python (Flask/FastAPI) and database support.
 
 📂 Project Structure
 
