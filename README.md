@@ -55,8 +55,11 @@ cd Unified-Resume-Builder
 
 🛠️ Tech Stack
 Frontend: React.js, Chakra UI, React Router
+
 Backend: Python, Flask/FastAPI, NLP (NLTK, spaCy)
+
 Database: MySQL
+
 Other Libraries: Pandas, PyResparser, PDFMiner
 
 🐜 Contributing
